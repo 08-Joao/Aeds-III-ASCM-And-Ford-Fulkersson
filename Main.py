@@ -1,4 +1,3 @@
-# Aluno - Joao Victor Vieira Amora de Figueiredo {23.1.8019}
 from collections import deque
 
 # Algoritmo de Ford-Fulkerson
